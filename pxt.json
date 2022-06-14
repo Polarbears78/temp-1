@@ -1,0 +1,30 @@
+{
+    "name": "DS18B20(v2)소수점",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "ds18b20": "github:dongjoon9331/pxt-ds18b20#0.1.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v4.0.11",
+        "tag": "v4.0.11",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/2b9dd6f9b1588b4ad95673b458b3a6eb156bfbd7",
+        "target": "4.0.18",
+        "pxt": "7.0.8",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
